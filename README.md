@@ -11,10 +11,10 @@ and you can follow in real time as the execution happens by accessing [here](htt
 ## How To Run The Test ##
 
 ```
-# Import the file into postman
-# Click on the three dots in the "Trello APIs" collection and click on "Run Colection"
-# Set the Run Configuration and Execute.
-# Go to "https://trello.com/u/eduardolemes22/boards" along as the run happens
+# Import the "Trello APIs.postman_collection.json" file into the Postman
+# Click on the three dots in the "Trello APIs" collection and click on "Run Colection" and set the Run Configuration as you wish.
+# Execute the Collection Runner to see the results.
+# (Bonus) You can also go to "https://trello.com/u/eduardolemes22/boards" to see the CRUD process happening while the collection is running.
 
 
 
